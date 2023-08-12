@@ -1,0 +1,11 @@
+print(20 + 50 * 25)
+print(20 + 10)
+print(True)
+print(False)
+print(1.5 + 1.5)
+print("Python")
+
+int()
+float()
+str()
+bool()
